@@ -1,8 +1,8 @@
-# Casper
+# Rasper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Rasper is the raspberry red version of Casper - The default theme for [Ghost](http://github.com/tryghost/ghost/).
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+To download, visit the [releases](https://github.com/Cobbspur/Rasper/releases) page.
 
 ## Copyright & License
 
